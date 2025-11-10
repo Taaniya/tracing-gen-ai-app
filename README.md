@@ -31,4 +31,5 @@
 Other open source frameworks for tracing & observabiloty -
 1. [Opentelimetry](https://opentelemetry.io/docs/concepts/signals/traces/)
 2. [LangFuse](https://langfuse.com/)
+3. [Arize AI - Phoenix](https://arize.com/docs/phoenix/tracing/llm-traces)
 
