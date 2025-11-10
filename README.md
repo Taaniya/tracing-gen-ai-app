@@ -26,3 +26,9 @@
 * https://mlflow.org/docs/latest/tracking/server/
 * https://mlflow.org/docs/latest/tracing/api/search 
 
+
+
+Other open source frameworks for tracing & observabiloty -
+1. [Opentelimetry](https://opentelemetry.io/docs/concepts/signals/traces/)
+2. [LangFuse](https://langfuse.com/)
+
