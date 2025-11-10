@@ -16,7 +16,7 @@
    mlflow.set_tracking_uri('http://localhost:5000')
    mlflow.litellm.autolog()
    ```
-  Note: The tracking URL is the same URL at which the mlflow server ui is launched at -
+  Note: The tracking URL is the same URL at which the mlflow server ui is launched -
 
 
 **References –**
