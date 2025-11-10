@@ -17,6 +17,7 @@
    mlflow.litellm.autolog()
    ```
   Note: The tracking URL is the same URL at which the mlflow server ui is launched -
+  ![image1](mlflow_tracer.png)
 
 
 **References –**
